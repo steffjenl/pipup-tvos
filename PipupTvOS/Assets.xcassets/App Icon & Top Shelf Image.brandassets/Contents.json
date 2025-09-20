@@ -1,0 +1,18 @@
+{
+  "assets" : [
+    {
+      "filename" : "App Icon - Large.imagestack",
+      "idiom" : "tv",
+      "role" : "primary-app-icon"
+    },
+    {
+      "filename" : "Top Shelf Image.imageset",
+      "idiom" : "tv",
+      "role" : "top-shelf-image"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
